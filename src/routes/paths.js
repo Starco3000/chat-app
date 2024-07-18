@@ -6,6 +6,7 @@ function path(root, sublink) {
 
 const ROOTS_DASHBOARD = "/";
 
+//PATH_DASHBOARD.gerenal.app => "/" + "app" => "/app
 export const PATH_DASHBOARD = {
   root: ROOTS_DASHBOARD,
   general: {
